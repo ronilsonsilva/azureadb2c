@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/ApiClient/.vs/ApiClient
+/.vs
+/src/ApiClient/ApiClient/bin/Debug/netcoreapp3.1
+/src/ApiClient/ApiClient/obj
